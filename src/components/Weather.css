@@ -78,3 +78,7 @@
     margin-top: 10px;
 
 }
+
+.weather {
+    transition: background-color 0.5s ease;
+  }
